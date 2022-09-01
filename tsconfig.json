@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "lib": ["dom"],
+      "moduleResolution": "node",
+      "skipLibCheck": true,
+      "resolveJsonModule": true,
+      "types": ["node", "jest"],
+      "jsx": "react-jsx",
+    },
+}
+  
